@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """A python script that export data in the CSV format"""
 
 import requests

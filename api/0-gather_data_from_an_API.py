@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """A python script that gather data from an API"""
 
 import requests
